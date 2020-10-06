@@ -5,11 +5,7 @@
 - Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
 - Knowledge on Dart and Flutter
  
-## ✔ Steps 
- + Fork the Repo
- + Clone the Repo `git clone https://github.com/IamYunusAli/Flutter-Github-UI.git`
- + Cd `Flutter-Github-UI`
- + Flutter run
+
  
 
 
